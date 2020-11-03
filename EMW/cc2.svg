@@ -157,7 +157,7 @@
       <path id="Path_1179" data-name="Path 1179" d="M333.551,165.09l37.57,15.82v50.379l-7.789,6.469-9.953,7.367-9.024,4.641-8.57,5.492-9.945,5.988-7.039,1.809-8.746,2.558L286.879,241.77V192.063l7.726-1.68,7.723-2.688,9.086-5.961,7.84-5,7.348-5.5,6.949-6.148" fill="#cceccd"/>
       <path id="Path_1180" data-name="Path 1180" d="M177.329-291.927v59.4" transform="translate(110.258 484.318)" fill="none" stroke="#00a650" stroke-width="1.612"/>
       <path id="Path_1181" data-name="Path 1181" d="M199.2-268.418v50.38" transform="translate(110.258 484.318)" fill="none" stroke="#00a650" stroke-width="1.612"/>
-      <path id="Path_1182" data-name="Path 1182" d="M223.3-317.115v48.337" transform="translate(110.258 484.318)" fill="none" stroke="#00a650" stroke-width="1.612" stroke-dasharray="30 30"/>
+      <path id="Path_1182" data-name="Path 1182" d="M223.3-317.115v48.337" transform="translate(110.258 484.318)" fill="none" stroke="#00a650" stroke-width="1.612" stroke-dasharray="5 5"/>
       <path id="Path_1183" data-name="Path 1183" d="M199.2-218.709V-73.7" transform="translate(110.258 484.318)" fill="none" stroke="#f6836c" stroke-width="1.612" stroke-dasharray="5 5"/>
       <path id="Path_1184" data-name="Path 1184" d="M260.87-255.656v146.5" transform="translate(110.258 484.318)" fill="none" stroke="#f6836c" stroke-width="1.612" stroke-dasharray="5 5"/>
       <g id="Group_1367" data-name="Group 1367">
@@ -489,8 +489,8 @@
         </g>
       </g>
       <path id="Path_1268" data-name="Path 1268" d="M355.238,204.77v-9.489l-6.129-2.691v9.488l6.129,2.692" fill="#83a7dd"/>
-      <path id="Path_1269" data-name="Path 1269" d="M242.146-284.54l16.5-13.855" transform="translate(110.258 484.318)" fill="none" stroke="#176fc0" stroke-width="2.902" stroke-dasharray="30 20"/>
-      <path id="Path_1270" data-name="Path 1270" d="M245.154-279.555v-9.488l-6.13-2.692v9.489Zm0,0" transform="translate(110.258 484.318)" fill="none" stroke="#231f20" stroke-width="1.29" stroke-dasharray="10 10"/>
+      <path id="Path_1269" data-name="Path 1269" d="M242.146-284.54l7.675-6.444,1.313-1.1,1.326-1.113,6.188-5.2" transform="translate(110.258 484.318)" fill="none" stroke="#176fc0" stroke-width="2.902" stroke-dasharray="4 2"/>
+      <path id="Path_1270" data-name="Path 1270" d="M245.154-279.555v-9.488l-6.13-2.692v9.489Zm0,0" transform="translate(110.258 484.318)" fill="none" stroke="#231f20" stroke-width="1.29" stroke-dasharray="2 2"/>
       <path id="Path_1271" data-name="Path 1271" d="M260.87-303.416v50.381" transform="translate(110.258 484.318)" fill="none" stroke="#00a650" stroke-width="1.612"/>
       <g id="Group_1490" data-name="Group 1490">
         <g id="Group_1489" data-name="Group 1489" transform="translate(362.263 136.861)">
