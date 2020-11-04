@@ -1,32 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525" height="84.25" viewBox="0 0 525 84.25">
+<svg id="d5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525" height="84.25" viewBox="0 0 525 84.25">
   <defs>
     <clipPath id="clip-path">
       <rect x="1" y="695" width="525" height="84.25" fill="none"/>
     </clipPath>
-    <clipPath id="clip-path-2">
-      <path id="Path_982" data-name="Path 982" d="M34,28.5h.5V813.75H34Zm526.25,0H561V813.75h-.75Zm0,0"/>
-    </clipPath>
   </defs>
-  <g id="d5" transform="translate(-1 -695)" clip-path="url(#clip-path)" style="isolation: isolate">
+  <g id="d5-2" data-name="d5" transform="translate(-1 -695)" clip-path="url(#clip-path)" style="isolation: isolate">
     <g id="surface76" transform="translate(-34 -28.5)">
-      <g id="Group_1922" data-name="Group 1922" clip-path="url(#clip-path-2)">
-        <path id="Path_981" data-name="Path 981" d="M34.5-11681.3H560.25V74736.8H34.5Zm0,0"/>
-      </g>
-      <path id="Path_983" data-name="Path 983" d="M34.5,55.5H558V75.75H34.5Zm0,0" fill="#eee"/>
-      <path id="Path_984" data-name="Path 984" d="M34.5,55.5H558v.75H34.5Zm0,0" fill="#d6d6d6"/>
-      <path id="Path_985" data-name="Path 985" d="M34.5,75H558v.75H34.5Zm0,0" fill="#d6d6d6"/>
-      <path id="Path_986" data-name="Path 986" d="M34.5,55.5h.75V75.75H34.5Zm0,0" fill="#d6d6d6"/>
-      <path id="Path_987" data-name="Path 987" d="M557.25,55.5H558V75.75h-.75Zm0,0" fill="#d6d6d6"/>
-      <path id="Path_988" data-name="Path 988" d="M34.5,108.75H558V331.5H34.5Zm0,0" fill="#eee"/>
-      <path id="Path_989" data-name="Path 989" d="M34.5,108.75H558v.75H34.5Zm0,0" fill="#d6d6d6"/>
-      <path id="Path_990" data-name="Path 990" d="M34.5,330.75H558v.75H34.5Zm0,0" fill="#d6d6d6"/>
-      <path id="Path_991" data-name="Path 991" d="M34.5,108.75h.75V331.5H34.5Zm0,0" fill="#d6d6d6"/>
-      <path id="Path_992" data-name="Path 992" d="M557.25,108.75H558V331.5h-.75Zm0,0" fill="#d6d6d6"/>
-      <path id="Path_993" data-name="Path 993" d="M34.5,364.5H558v42.75H34.5Zm0,0" fill="#f1f1f1"/>
-      <path id="Path_994" data-name="Path 994" d="M34.5,364.5H558v.75H34.5Zm0,0" fill="#d6d6d6"/>
-      <path id="Path_995" data-name="Path 995" d="M34.5,406.5H558v.75H34.5Zm0,0" fill="#d6d6d6"/>
-      <path id="Path_996" data-name="Path 996" d="M34.5,364.5h.75v42.75H34.5Zm0,0" fill="#d6d6d6"/>
-      <path id="Path_997" data-name="Path 997" d="M557.25,364.5H558v42.75h-.75Zm0,0" fill="#d6d6d6"/>
       <path id="Path_998" data-name="Path 998" d="M34.5,429.75H560.25v.75H34.5Zm0,0"/>
       <path id="Path_999" data-name="Path 999" d="M34.5,723h66v22.5h-66Zm0,0" fill="#efefef"/>
       <path id="Path_1000" data-name="Path 1000" d="M100.5,723H389.25v22.5H100.5Zm0,0" fill="#efefef"/>

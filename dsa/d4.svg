@@ -1,27 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="446" height="311.25" viewBox="0 0 446 311.25">
+<svg id="d4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="446" height="311.25" viewBox="0 0 446 311.25">
   <defs>
     <clipPath id="clip-path">
       <rect x="1" width="446" height="311.25" fill="none"/>
     </clipPath>
     <clipPath id="clip-path-2">
-      <path id="Path_2" data-name="Path 2" d="M34,28.5h.5V813.75H34Zm526.25,0H561V813.75h-.75Zm0,0"/>
-    </clipPath>
-    <clipPath id="clip-path-3">
       <path id="Path_4" data-name="Path 4" d="M34,28.5H147V46H34Zm0,0"/>
     </clipPath>
-    <clipPath id="clip-path-4">
+    <clipPath id="clip-path-3">
       <path id="Path_6" data-name="Path 6" d="M146,28.5H482V46H146Zm0,0"/>
     </clipPath>
   </defs>
-  <g id="d4" transform="translate(-1)" clip-path="url(#clip-path)" style="isolation: isolate">
+  <g id="d4-2" data-name="d4" transform="translate(-1)" clip-path="url(#clip-path)" style="isolation: isolate">
     <g id="surface71" transform="translate(-34 -28.5)">
-      <g id="Group_1" data-name="Group 1" clip-path="url(#clip-path-2)">
-        <path id="Path_1" data-name="Path 1" d="M34.5-10896H560.25V75522H34.5Zm0,0"/>
-      </g>
-      <g id="Group_2" data-name="Group 2" clip-path="url(#clip-path-3)">
+      <g id="Group_2" data-name="Group 2" clip-path="url(#clip-path-2)">
         <path id="Path_3" data-name="Path 3" d="M34.5,28.5H146.25V45.75H34.5Zm0,0" fill="#efefef"/>
       </g>
-      <g id="Group_3" data-name="Group 3" clip-path="url(#clip-path-4)">
+      <g id="Group_3" data-name="Group 3" clip-path="url(#clip-path-3)">
         <path id="Path_5" data-name="Path 5" d="M146.25,28.5H481.5V45.75H146.25Zm0,0" fill="#efefef"/>
       </g>
       <path id="Path_7" data-name="Path 7" d="M34.5,381.75H558v144H34.5Zm0,0" fill="#eee"/>

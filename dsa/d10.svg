@@ -1,22 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525" height="266.25" viewBox="0 0 525 266.25">
+<svg id="d10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525" height="266.25" viewBox="0 0 525 266.25">
   <defs>
     <clipPath id="clip-path">
       <rect x="1" y="456" width="525" height="266.25" fill="none"/>
     </clipPath>
-    <clipPath id="clip-path-2">
-      <path id="Path_4041" data-name="Path 4041" d="M34,28.5h.5V813.75H34Zm526.25,0H561V813.75h-.75Zm0,0"/>
-    </clipPath>
   </defs>
-  <g id="d10" transform="translate(-1 -456)" clip-path="url(#clip-path)" style="isolation: isolate">
+  <g id="d10-2" data-name="d10" transform="translate(-1 -456)" clip-path="url(#clip-path)" style="isolation: isolate">
     <g id="surface86" transform="translate(-34 -28.5)">
-      <g id="Group_7966" data-name="Group 7966" clip-path="url(#clip-path-2)">
-        <path id="Path_4040" data-name="Path 4040" d="M34.5-13251.8H560.25V73166.3H34.5Zm0,0"/>
-      </g>
-      <path id="Path_4042" data-name="Path 4042" d="M34.5,103.5H78.75V126H34.5Zm0,0" fill="#efefef"/>
-      <path id="Path_4043" data-name="Path 4043" d="M78.75,103.5H123V126H78.75Zm0,0" fill="#efefef"/>
-      <path id="Path_4044" data-name="Path 4044" d="M123,103.5h44.25V126H123Zm0,0" fill="#efefef"/>
-      <path id="Path_4045" data-name="Path 4045" d="M167.25,103.5H211.5V126H167.25Zm0,0" fill="#efefef"/>
-      <path id="Path_4046" data-name="Path 4046" d="M211.5,103.5h44.25V126H211.5Zm0,0" fill="#efefef"/>
       <path id="Path_4047" data-name="Path 4047" d="M34.5,484.5h66V507h-66Zm0,0" fill="#efefef"/>
       <path id="Path_4048" data-name="Path 4048" d="M100.5,484.5H389.25V507H100.5Zm0,0" fill="#efefef"/>
       <path id="Path_4049" data-name="Path 4049" d="M389.25,484.5h171V507h-171Zm0,0" fill="#efefef"/>

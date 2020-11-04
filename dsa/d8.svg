@@ -1,19 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525" height="133.25" viewBox="0 0 525 133.25">
+<svg id="d8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525" height="133.25" viewBox="0 0 525 133.25">
   <defs>
     <clipPath id="clip-path">
       <rect x="1" y="631" width="525" height="133.25" fill="none"/>
     </clipPath>
-    <clipPath id="clip-path-2">
-      <path id="Path_2343" data-name="Path 2343" d="M34,28.5h.5V813.75H34Zm526.25,0H561V813.75h-.75Zm0,0"/>
-    </clipPath>
   </defs>
-  <g id="d8" transform="translate(-1 -631)" clip-path="url(#clip-path)" style="isolation: isolate">
+  <g id="d8-2" data-name="d8" transform="translate(-1 -631)" clip-path="url(#clip-path)" style="isolation: isolate">
     <g id="surface81" transform="translate(-34 -28.5)">
-      <g id="Group_4589" data-name="Group 4589" clip-path="url(#clip-path-2)">
-        <path id="Path_2342" data-name="Path 2342" d="M34.5-12466.5H560.25v86418H34.5Zm0,0"/>
-      </g>
-      <path id="Path_2344" data-name="Path 2344" d="M34.5,255.75h66v22.5h-66Zm0,0" fill="#efefef"/>
-      <path id="Path_2345" data-name="Path 2345" d="M100.5,255.75H389.25v22.5H100.5Zm0,0" fill="#efefef"/>
       <path id="Path_2346" data-name="Path 2346" d="M389.25,255.75h171v22.5h-171Zm0,0" fill="#efefef"/>
       <path id="Path_2347" data-name="Path 2347" d="M34.5,659.25h66v22.5h-66Zm0,0" fill="#efefef"/>
       <path id="Path_2348" data-name="Path 2348" d="M100.5,659.25H389.25v22.5H100.5Zm0,0" fill="#efefef"/>
