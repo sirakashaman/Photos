@@ -1,0 +1,196 @@
+
+# Backroads Tours
+
+<blockquote display="info">
+  In spite of warnings, change rarely occurs until the status quo becomes more
+  painful than change. People seem not to see that their opinion of the world is
+  also a confession of their character.
+</blockquote>
+
+## Some Random Text
+
+_I'm baby humblebrag neutra taiyaki af vice bespoke locavore fanny pack_ ramps vexillologist succulents. Normcore etsy pour-over adaptogen skateboard fashion axe, bushwick food truck beard lumbersexual master cleanse actually deep v. **Retro cardigan raw denim franzen kickstarter you probably haven't heard of them literally** aesthetic snackwave four dollar toast. Keffiyeh synth umami, helvetica yr flexitarian jean shorts banh mi cardigan leggings letterpress paleo intelligentsia narwhal.
+
+## First Trial heading 🚀
+
+<blockquote display="warning">
+  info "The greatest glory in living lies not in never falling, but in rising
+  every time we fall." -Nelson Mandela
+</blockquote>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam elementum aliquet ipsum, vitae fermentum augue pulvinar suscipit. Ut vehicula dapibus metus, sit amet pellentesque sapien interdum ac. Etiam at leo ut ex ultricies rutrum quis at ante. Phasellus id neque nisi. Mauris et hendrerit diam. Praesent ornare a nulla at mattis. Nam diam tellus, auctor sit amet volutpat id, ultrices in quam. Integer at fringilla tortor, eu vestibulum quam.
+
+Integer vel iaculis mi. Phasellus id ornare ex. Curabitur sed mauris sollicitudin, ultrices nibh id, egestas ante. Mauris ultrices, velit sed euismod posuere, mauris eros accumsan tortor, eu egestas ligula nulla ut urna. Donec vel ultricies enim. Sed non gravida ipsum. In a tortor at ipsum sodales ultricies vitae eget risus.
+
+> **"Yours** time is limited, so don't waste it living someone else's life. Don't be
+> trapped by dogma – which is living with the results of other people's
+> thinking." -Steve Jobs
+
+## what's if we want code no issue 😁
+
+```jsx
+const { currentPage, numPages } = pageContext;
+const {
+  allMdx: { nodes: posts },
+} = data;
+
+const transitions = useTransition(true, null, {
+  from: { left: 20, opacity: 0, position: "relative", scrollBehavior: "none" },
+  enter: { left: 0, opacity: 1 },
+  leave: { opacity: 0 },
+});
+```
+
+### At last but not the least 🙄
+
+$$
+ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+
+# and all mdx extra things
+
+Integer vel iaculis mi. Phasellus id ornare ex. Curabitur sed mauris sollicitudin, ultrices nibh id, egestas ante. Mauris ultrices, velit sed euismod posuere, mauris eros accumsan tortor, eu egestas ligula nulla ut urna. Donec vel ultricies enim. Sed non gravida ipsum. In a tortor at ipsum sodales ultricies vitae eget risus.
+
+# Algorithms For Sorting
+
+| Tables   |      Are      |  Cool |  Cool |  Cool |  Cool |  Cool |
+| -------- | :-----------: | ----: | ----: | ----: | ----: | ----: |
+| col 1 is | left-aligned  | $1600 | $1600 | $1600 | $1600 | $1600 |
+| col 2 is |   centered    |   $12 |   $12 |   $12 |   $12 |   $12 |
+| col 3 is | right-aligned |    $1 |    $1 |    $1 |    $1 |    $1 |
+
+<MultiCode>
+
+```cpp
+using System;
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int binarySearch(int arr[], int l, int r, int x)
+{
+	if (r >= l) {
+		int mid = l + (r - l) / 2;
+
+		if (arr[mid] == x)
+			return mid;
+
+		if (arr[mid] > x)
+			return binarySearch(arr, l, mid - 1, x);
+
+		// Else the element can only be present
+		// in right subarray
+		return binarySearch(arr, mid + 1, r, x);
+	}
+
+	// We reach here when element is not
+	// present in array
+	return -1;
+}
+
+int main(void)
+{
+	int arr[] = { 2, 3, 4, 10, 40 };
+	int x = 10;
+	int n = sizeof(arr) / sizeof(arr[0]);
+	int result = binarySearch(arr, 0, n - 1, x);
+	(result == -1) ? cout << "Element is not present in array"
+				: cout << "Element is present at index " << result;
+	return 0;
+}
+
+```
+
+```python
+
+# Python3 Program for recursive binary search.
+
+# Returns index of x in arr if present, else -1
+def binarySearch (arr, l, r, x):
+
+	# Check base case
+	if r >= l:
+
+		mid = l + (r - l) // 2
+
+		# If element is present at the middle itself
+		if arr[mid] == x:
+			return mid
+
+		# If element is smaller than mid, then it
+		# can only be present in left subarray
+		elif arr[mid] > x:
+			return binarySearch(arr, l, mid-1, x)
+
+		# Else the element can only be present
+		# in right subarray
+		else:
+			return binarySearch(arr, mid + 1, r, x)
+
+	else:
+		# Element is not present in the array
+		return -1
+
+# Driver Code
+arr = [ 2, 3, 4, 10, 40 ]
+x = 10
+
+# Function call
+result = binarySearch(arr, 0, len(arr)-1, x)
+
+if result != -1:
+	print ("Element is present at index % d" % result)
+else:
+	print ("Element is not present in array")
+
+```
+
+```java
+// Java implementation of recursive Binary Search
+class BinarySearch {
+	// Returns index of x if it is present in arr[l..
+	// r], else return -1
+	int binarySearch(int arr[], int l, int r, int x)
+	{
+		if (r >= l) {
+			int mid = l + (r - l) / 2;
+
+			// If the element is present at the
+			// middle itself
+			if (arr[mid] == x)
+				return mid;
+
+			// If element is smaller than mid, then
+			// it can only be present in left subarray
+			if (arr[mid] > x)
+				return binarySearch(arr, l, mid - 1, x);
+
+			// Else the element can only be present
+			// in right subarray
+			return binarySearch(arr, mid + 1, r, x);
+		}
+
+		// We reach here when element is not present
+		// in array
+		return -1;
+	}
+
+	// Driver method to test above
+	public static void main(String args[])
+	{
+		BinarySearch ob = new BinarySearch();
+		int arr[] = { 2, 3, 4, 10, 40 };
+		int n = arr.length;
+		int x = 10;
+		int result = ob.binarySearch(arr, 0, n - 1, x);
+		if (result == -1)
+			System.out.println("Element not present");
+		else
+			System.out.println("Element found at index " + result);
+	}
+}
+
+
+```
+
+</MultiCode>
